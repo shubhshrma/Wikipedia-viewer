@@ -1,0 +1,76 @@
+
+h1{
+  margin-top : 0px;
+  padding-top: 0;
+  font-size: 60px;
+  font-family: 'Slabo 27px',serif;
+}
+p{
+  font-family: 'Slabo 27px',serif;
+  letter-spacing: 0.1em;
+}
+.header{
+  margin-top: 90px;
+  margin-bottom: 90px;
+
+}
+.search-block{
+    background-color: #E0E0E0;
+    width: 100%;
+    text-align: center;
+}
+
+.search{
+  margin-top:50px;
+}
+
+#wiki-image{
+  max-width: 100%;
+  margin-bottom: 5px;
+  margin-left: 0;
+  margin-right: 0;
+  
+}
+
+.image{
+  display: inline-block;
+  margin: 0 auto;
+  margin-top: 60px;
+  padding: 0;
+  margin-bottom: 40px;
+  
+}
+.search-header{
+  width: 100%;
+  margin-bottom:90px;
+  margin-top: 90px;
+}
+.search-results{
+  background-color: #E0E0E0;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+.search-items{
+  width:80%;
+  border : 2px solid #0066CC;
+  border-radius: 10px;
+  
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.search-items h6{
+  
+  color: #A00000;
+}
+.search-items p{
+    margin:10px;
+}
+.search-results a{
+  text-decoration: none;
+}
+.search-results a:hover {
+  opacity: 0.5;
+}
